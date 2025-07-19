@@ -4,6 +4,7 @@
 http://47.120.41.246:8899/zb.txt
 https://tc.z.wiki/autoupload/3QDPw4-gAd37T2i9HoBz1zZ2Dc6aMs5JrhEnW6BcRD2yl5f0KlZfm6UsKj-HyTuv/20250616/B0np/0530dy.txt
 https://tc.z.wiki/autoupload/3QDPw4-gAd37T2i9HoBz1zZ2Dc6aMs5JrhEnW6BcRD2yl5f0KlZfm6UsKj-HyTuv/20250612/yTbY/%E4%B9%9D%E5%B7%9E%E5%BD%B1%E8%A7%86.txt
+https://cdn.z.wiki/autoupload/20250408/IECk/18%E6%8E%A5%E5%8F%A3.txt
 https://live.kakaxi-1.ink/ipv4.txt
 http://kkk.jjjj.jiduo.me/user/tttt/api.txt
 https://d.h6room.com/frjzb.txt
